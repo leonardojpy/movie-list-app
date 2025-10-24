@@ -3,9 +3,11 @@ import Movie from './components/Movie';
 function App() {
   return (
     <div>
-      <Movie/> 
+      <Movie/>
     </div>
   );
 }
 
 export default App;
+
+
